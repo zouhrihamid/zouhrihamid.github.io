@@ -1,0 +1,29 @@
+.header{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    }
+
+nav {
+    margin-top: 14px;
+    margin-top:0px ;
+   
+    }
+
+nav li {
+    padding-top: 11px;
+    display: inline;
+    align-items: center;
+    margin-left: 30px;
+}
+
+.header img{
+    height: 20px;
+    width: 61.09px;
+    margin-top:14px ;
+}
+
+nav li:hover { 
+    color: #0065FC;
+    border-top: 3px solid #0065FC;
+} 

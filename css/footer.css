@@ -1,0 +1,28 @@
+.footer{
+    display: flex;
+  background-color: rgb(218, 216, 216);
+    flex-direction: row;
+    margin-bottom:0px;
+    padding-bottom: 5%;
+    }
+
+.box{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    }
+
+   .box p{
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin-top: 0px ;
+    margin-bottom: 0px;
+    margin-left: 3%;
+    font-size: small;
+    }
+  
+  .box h3{
+    margin-left: 3%;
+    padding-bottom: 4px;
+    margin-bottom: 0px;
+    }
